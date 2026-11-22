@@ -1,0 +1,1754 @@
+{
+  "municipio": "Sopó",
+  "departamento": "Cundinamarca",
+  "pais": "Colombia",
+  "fuente": "Dirección de Turismo - Alcaldía Municipal de Sopó",
+  "fecha_actualizacion": "Noviembre 2026",
+  "historia": {
+    "fundacion": {
+      "fecha": "25 de mayo de 1653",
+      "fundador": "Fray Francisco Chacón, sacerdote de la Orden de Predicadores",
+      "origen": "Unión de los pobladores de Meusa, Cueca y Sopó"
+    },
+    "piedra_milagrosa": {
+      "nombre": "Piedra Milagrosa de Mi Padre Jesús",
+      "historia": "El 3 de diciembre de 1753, la señora Rosa Nieto encontró una piedra con la imagen de Jesucristo resucitado mientras lavaba ropa en una quebrada. El sacerdote Raimundo Forero, quien inicialmente no creyó en el hallazgo, manifestó haber recuperado parte de su visión al reconocer la imagen, considerado el primer milagro atribuido a la piedra."
+    },
+    "cruz_pionono": {
+      "construccion": "1961",
+      "historia": "Construida durante la época del padre Higinio Cubillos. La comunidad llevó la cruz hasta la parte alta de la montaña, dando origen al nombre del Monte Pionono."
+    }
+  },
+  "rutas_turisticas": [
+    {
+      "nombre": "Ruta Arte Sacro Cultural",
+      "descripcion": "Recorrido por los principales sitios religiosos y culturales del municipio.",
+      "incluye": [
+        "Iglesia Divino Salvador",
+        "Colección de Arcángeles",
+        "Santuario del Señor de la Piedra"
+      ]
+    },
+    {
+      "nombre": "Ruta Agroturística",
+      "descripcion": "Recorrido por los espacios rurales y productivos del municipio."
+    }
+  ],
+  "preguntas_frecuentes": [
+    {
+      "pregunta": "¿Cuáles son los principales sitios turísticos de Sopó?",
+      "respuesta": "Los principales sitios son: la Reserva Ecológica Pionono (naturaleza), la Iglesia Divino Salvador con la Colección de los 12 Arcángeles, el Santuario del Señor de la Piedra, el Recorrido de Murales de Guaque, la Casona de las Artes y la Plaza de los Tibas."
+    },
+    {
+      "pregunta": "¿Cuáles son los horarios de atención de los sitios turísticos?",
+      "respuesta": "La Reserva Ecológica Pionono abre miércoles a domingo y festivos de 8:00 a.m. con último ingreso a las 2:00 p.m. La Iglesia Divino Salvador tiene misas de martes a sábado a las 7:00 a.m. y 5:30 p.m., y domingos a las 7:00 a.m., 12:00 m. y 5:00 p.m."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta entrar a la Reserva Pionono?",
+      "respuesta": "La entrada general cuesta $8.500 COP por persona. Para personas oriundas de Sopó (presentando cédula expedida en el municipio) el valor es de $2.700 COP."
+    },
+    {
+      "pregunta": "¿Se pueden llevar mascotas a la Reserva Pionono?",
+      "respuesta": "No, no está permitido el ingreso de mascotas a la Reserva Ecológica Pionono. Tampoco se permiten bebidas alcohólicas ni plásticos de un solo uso."
+    },
+    {
+      "pregunta": "¿Cuáles son los horarios de las misas?",
+      "respuesta": "Iglesia Divino Salvador: martes a sábado a las 7:00 a.m. y 5:30 p.m.; domingos a las 7:00 a.m., 12:00 m. y 5:00 p.m. Santuario del Señor de la Piedra: sábados a las 4:00 p.m.; domingos a las 8:00 a.m., 10:00 a.m., 12:00 m. y 3:00 p.m."
+    },
+    {
+      "pregunta": "¿Qué actividades turísticas se pueden realizar en Sopó?",
+      "respuesta": "Puedes visitar la Reserva Ecológica Pionono para senderismo, recorrer la Ruta Arte Sacro Cultural, hacer la Ruta Agroturística, visitar la Casona de las Artes, recorrer los murales de Guaque y asistir al mercado Hecho en Sopó los domingos."
+    },
+    {
+      "pregunta": "¿Qué hospedajes rurales existen en el municipio?",
+      "respuesta": "Entre los hospedajes disponibles están: Cabañas Sinduly, Tu Casa Hotel Rural, Campando Ando, Cabaña El Cucharo, Hotel Camelia Real, Hotel Renacer, Villa Mercedes, Blau Hotel, Hotel La Mansión, Hotel Cerro Fuerte y Hotel Restaurante Boston, entre otros."
+    },
+    {
+      "pregunta": "¿Cuándo fue fundado Sopó?",
+      "respuesta": "El municipio de Sopó fue fundado el 25 de mayo de 1653, mediante la unión de los pobladores de Meusa, Cueca y Sopó, por Fray Francisco Chacón, sacerdote de la Orden de Predicadores."
+    },
+    {
+      "pregunta": "¿Qué es la Colección de Arcángeles?",
+      "respuesta": "Es una colección de 12 pinturas al óleo únicas en Colombia, ubicadas en la Iglesia Divino Salvador de Sopó. Representan una de las expresiones más importantes del arte barroco neogranadino y se destacan por el misterio que rodea su autoría y procedencia."
+    },
+    {
+      "pregunta": "¿Qué rutas turísticas existen en Sopó?",
+      "respuesta": "Existen dos rutas principales: la Ruta Arte Sacro Cultural (sitios religiosos y patrimoniales) y la Ruta Agroturística (espacios rurales y productivos). En el punto de información turística entregan mapas y folletos con los detalles."
+    }
+  ],
+  "informacion_practica": {
+    "punto_informacion_turistica": {
+      "descripcion": "Entregan mapas y folletos con información de todos los atractivos",
+      "materiales_disponibles": [
+        "Mapa de la Reserva Ecológica Pionono",
+        "Folleto Ruta Arte Sacro Cultural",
+        "Folleto Ruta Agroturística",
+        "Guía de sitios religiosos y culturales",
+        "Directorio de gastronomía, hoteles y alojamientos"
+      ]
+    },
+    "contacto_alcaldia": {
+      "direccion": "Carrera 3 No 2-45 Parque Principal, Sopó Cundinamarca",
+      "telefono": "5876644",
+      "web": "www.sopo-cundinamarca.gov.co"
+    }
+  },
+  "hoteles": [
+    {
+      "nombre": "Hotel Boutique Parque Principal",
+      "categoria": "Hospedaje",
+      "tipo": "Hotel boutique",
+      "descripcion": "Hotel boutique ubicado frente al parque principal de Sopó, en pleno centro del municipio, cerca del comercio y los restaurantes del casco urbano. Para conocer tipos de habitación, tarifas y disponibilidad, comunícate directamente al 313 470 0616.",
+      "direccion": "Carrera 2 No. 1-78, Parque Principal, Centro, Sopó, Cundinamarca",
+      "telefono": "313 470 0616",
+      "correo": null,
+      "sitio_web": null,
+      "tipos_habitacion": [],
+      "precio_referencia": null,
+      "servicios": [],
+      "check_in": null,
+      "check_out": null,
+      "cercanias": [
+        "Parque Principal de Sopó",
+        "Centro del municipio"
+      ],
+      "imagen": "imagenes/hotel_boutique_parque_principal.jpg",
+      "mas_informacion": "Para más información sobre habitaciones, tarifas y disponibilidad, comunícate al 313 470 0616.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Dirección y teléfono confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "Hotel Cerro Fuerte Sopó",
+      "categoria": "Hospedaje",
+      "tipo": "Hotel campestre",
+      "descripcion": "Hotel campestre en la vereda Los Comuneros, rodeado de montañas y zonas verdes. Ofrece Wi-Fi y parqueadero gratuitos, desayuno y admite mascotas (pet friendly). Es un espacio libre de humo.",
+      "direccion": "Vereda Los Comuneros, Finca El Vergel 2, Sopó, Cundinamarca",
+      "telefono": "324 629 9320",
+      "correo": null,
+      "sitio_web": null,
+      "tipos_habitacion": [],
+      "precio_referencia": null,
+      "servicios": [
+        "Wi-Fi gratuito",
+        "Desayuno",
+        "Parqueadero gratuito (autoparqueo y valet parking)",
+        "Pet friendly",
+        "Recepción",
+        "Guarda equipaje",
+        "Servicio de despertador",
+        "Tienda de víveres",
+        "Tienda de regalos",
+        "Transporte local",
+        "Traslado al aeropuerto (costo adicional)",
+        "Servicio de carro privado (costo adicional)"
+      ],
+      "politicas": [
+        "Propiedad libre de humo",
+        "Medios de pago: efectivo, tarjeta de crédito y tarjeta débito"
+      ],
+      "check_in": null,
+      "check_out": null,
+      "cercanias": [],
+      "imagen": "imagenes/hotel_cerro_fuerte_sopo.jpg",
+      "mas_informacion": "Para conocer tipos de habitación, tarifas y disponibilidad, comunícate al 324 629 9320.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Información suministrada por la beneficiaria",
+      "alias": [
+        "Hotel Cerro Fuerte"
+      ]
+    },
+    {
+      "nombre": "Blau Hotel Café",
+      "categoria": "Hospedaje",
+      "tipo": "Hotel con cafetería y bar",
+      "descripcion": "Hotel en el centro de Sopó, con jardín, cafetería para comer algo rico y bar para relajarse al final del día con un trago. Incluye desayuno continental y Wi-Fi gratuito, y cuenta con espacios de coworking. Es una excelente opción para tu estadía en Sopó.",
+      "direccion": "Calle 3 No. 4-47/53, Sopó, Cundinamarca",
+      "telefono": "302 339 8566 / 301 291 3233",
+      "correo": null,
+      "sitio_web": null,
+      "tipos_habitacion": [
+        "Doble estándar con vista al jardín (cama queen y cama sencilla, hasta 3 personas)",
+        "Sencilla estándar con vista al patio (cama sencilla grande y cama nido, hasta 3 personas)",
+        "Estándar con vista al patio (cama king, hasta 3 personas)",
+        "Cuádruple superior (hasta 5 personas)"
+      ],
+      "precio_referencia": null,
+      "servicios": [
+        "Desayuno continental incluido",
+        "Wi-Fi gratuito",
+        "Cafetería",
+        "Bar",
+        "Restaurante",
+        "Jardín",
+        "Espacios de coworking",
+        "Lavandería",
+        "Guarda equipaje",
+        "Parqueadero limitado en el hotel (hay parqueadero gratuito cerca)"
+      ],
+      "politicas": [
+        "Propiedad libre de humo",
+        "No admite mascotas"
+      ],
+      "check_in": "Desde las 2:00 p. m.",
+      "check_out": "Hasta la 1:00 p. m.",
+      "cercanias": [
+        "Centro de Sopó"
+      ],
+      "imagen": "imagenes/blau_hotel_cafe_sopo.jpg",
+      "mas_informacion": "Para reservas y disponibilidad, comunícate al 302 339 8566 o al 301 291 3233.",
+      "fuente": "Información suministrada por la beneficiaria y ficha del hotel en Expedia",
+      "estado_validacion": "Datos confirmados por la beneficiaria; habitaciones y servicios tomados de Expedia",
+      "alias": [
+        "Blau Hotel"
+      ]
+    },
+    {
+      "nombre": "Hotel Camelia Real",
+      "categoria": "Hospedaje",
+      "tipo": "Hotel de estilo colonial",
+      "descripcion": "Hotel de arquitectura colonial con jardín interior y ambiente familiar, cerca del terminal de Sopó, de fácil acceso para quienes llegan en carro o en bus. Cuenta con jacuzzi y alberga el Museo Fotográfico de Sopó. También tiene sede en Briceño.",
+      "direccion": "Calle 1 Sur No. 3-13, Sopó, Cundinamarca",
+      "telefono": "313 294 2978",
+      "correo": null,
+      "sitio_web": null,
+      "tipos_habitacion": [],
+      "precio_referencia": null,
+      "servicios": [
+        "Wi-Fi gratuito",
+        "Parqueadero gratuito",
+        "Jacuzzi",
+        "Museo Fotográfico de Sopó",
+        "Jardín interior",
+        "Ambiente familiar",
+        "Traslado al aeropuerto (consultar disponibilidad)",
+        "Sauna",
+        "Museo fotográfico",
+        "Habitaciones familiares"
+      ],
+      "politicas": [
+        "Apto para familias"
+      ],
+      "check_in": null,
+      "check_out": null,
+      "cercanias": [
+        "Terminal de transporte de Sopó"
+      ],
+      "otras_sedes": [
+        "Briceño"
+      ],
+      "imagen": "imagenes/hotel_camelia_real_sopo.jpg",
+      "mas_informacion": "Para conocer tipos de habitación, tarifas, desayuno y disponibilidad, comunícate al 313 294 2978.",
+      "fuente": "Información suministrada por la beneficiaria y ficha del hotel en Google",
+      "estado_validacion": "Dirección y teléfono confirmados por la beneficiaria; jacuzzi y museo informados por la beneficiaria; demás servicios tomados de la ficha de Google",
+      "horario": "Abierto las 24 horas",
+      "descripcion_adicional": "Hotel con habitaciones cómodas para una, dos personas o familias. Cuenta con zona húmeda (jacuzzi para máximo 4 personas y sauna para máximo 8 personas) y un museo fotográfico que vale la pena visitar durante la estadía. Los precios varían según el número de personas, las noches de alojamiento y si se incluye la zona húmeda.",
+      "imagenes_adicionales": [
+        "imagenes/hotel_camelia_real_zona_humeda.jpg"
+      ]
+    },
+    {
+      "nombre": "Casa Paraíso",
+      "categoria": "Hospedaje",
+      "tipo": "Casa de huéspedes",
+      "descripcion": "Casa de huéspedes pensada para que te sientas como en casa, con cuatro espacios de acomodación. Su diseño interior está inspirado en la riqueza folclórica y colorida de Colombia y en la variedad de aves del país. Incluye desayuno americano durante la estadía.",
+      "direccion": "Carrera 3A No. 5-08, Urbanización Rincón del Norte, Sopó, Cundinamarca",
+      "telefono": "301 646 6527 / 320 430 6605",
+      "correo": null,
+      "sitio_web": null,
+      "tipos_habitacion": [
+        "Cuatro espacios de acomodación con baño privado y camas ortopédicas"
+      ],
+      "precio_referencia": null,
+      "servicios": [
+        "Desayuno americano incluido",
+        "Baño privado",
+        "Camas ortopédicas",
+        "Lencería de alcoba premium",
+        "Toallas e implementos de aseo básicos",
+        "Zona de lavandería",
+        "Servicio de bar",
+        "Zonas de estar",
+        "Wi-Fi ilimitado"
+      ],
+      "politicas": [],
+      "check_in": null,
+      "check_out": null,
+      "cercanias": [],
+      "imagen": "imagenes/casa_paraiso_sopo.jpg",
+      "mas_informacion": "Para tarifas y disponibilidad, comunícate al 301 646 6527 o al 320 430 6605.",
+      "fuente": "Información suministrada por la beneficiaria y descripción publicada por el establecimiento",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "Refugio de la Montaña",
+      "alias": [
+        "RRM",
+        "Reserva Refugio de la Montaña"
+      ],
+      "categoria": "Hospedaje",
+      "tipo": "Hospedaje rural de naturaleza y ecoturismo",
+      "descripcion": "Refugio en las montañas de Sopó para el descanso, la tranquilidad y el contacto con la naturaleza, lejos del bullicio diario. Pensado para personas, grupos y familias interesados en la naturaleza, la conexión mente-cuerpo-espíritu y el avistamiento de aves: en Sopó se han registrado más de 120 especies, entre ellas endémicas como el conirrostro rufo y el chamicero, además de grallarias y colibríes. Brinda información sobre atractivos cercanos para promover el turismo sostenible.",
+      "direccion": "Zona rural de montaña, Sopó, Cundinamarca",
+      "telefono": "304 546 7826",
+      "correo": null,
+      "sitio_web": "https://refugiodelamontana.com",
+      "tipos_habitacion": [
+        "Casa del Árbol \"El Raque\"",
+        "Cabaña \"El Aliso\""
+      ],
+      "precio_referencia": null,
+      "servicios": [
+        "Calefacción",
+        "Wi-Fi",
+        "Desayuno",
+        "Avistamiento de aves",
+        "Información de atractivos cercanos"
+      ],
+      "politicas": [
+        "No apto para niños de 2 a 12 años",
+        "No se permite fumar",
+        "No se admiten mascotas",
+        "No se permiten fiestas ni eventos",
+        "El acceso requiere usar escaleras",
+        "Se solicita depósito de seguridad por posibles daños"
+      ],
+      "check_in": "Desde la 1:00 p. m.",
+      "check_out": "11:00 a. m.",
+      "cercanias": [
+        "Parque Ecológico Pionono",
+        "Santuario del Señor de la Piedra",
+        "Parapente",
+        "Parque Nacional Natural Chingaza",
+        "Guatavita",
+        "Catedral de Sal"
+      ],
+      "imagen": "imagenes/refugio_de_la_montana_sopo.jpg",
+      "mas_informacion": "Para tarifas y reservas, comunícate al 304 546 7826 o en https://refugiodelamontana.com/contacto/.",
+      "fuente": "Información suministrada por la beneficiaria y sitio web https://refugiodelamontana.com",
+      "estado_validacion": "Datos confirmados por la beneficiaria; servicios, políticas y horarios tomados del sitio web (noviembre de 2026); falta dirección exacta"
+    },
+    {
+      "nombre": "Tu Casa - Hotel Rural",
+      "categoria": "Hospedaje",
+      "tipo": "Hotel rural",
+      "descripcion": "Hotel rural en la vereda La Violeta, a 40 minutos de Bogotá, rodeado de jardines y naturaleza. Cuenta con 10 habitaciones y capacidad para 35 personas en ocupación múltiple, ideal para familias y grupos.",
+      "direccion": "Vereda La Violeta, Sopó, Cundinamarca",
+      "telefono": "301 611 8812 / 301 429 9603",
+      "correo": "tuhotel.rural1@gmail.com",
+      "sitio_web": "https://www.tucasahotel.com",
+      "tipos_habitacion": [
+        "10 habitaciones con ocupación múltiple (capacidad total de 35 personas)"
+      ],
+      "precio_referencia": null,
+      "servicios": [
+        "Hospedaje para grupos y familias"
+      ],
+      "politicas": [],
+      "check_in": null,
+      "check_out": null,
+      "cercanias": [],
+      "imagen": "imagenes/tu_casa_hotel_rural_sopo.jpg",
+      "mas_informacion": "Para tarifas y reservas, comunícate al 301 611 8812 o al 301 429 9603, o escribe a tuhotel.rural1@gmail.com.",
+      "fuente": "Información suministrada por la beneficiaria y sitio web https://www.tucasahotel.com",
+      "estado_validacion": "Datos confirmados por la beneficiaria",
+      "alias": [
+        "Tu Casa Hotel Rural"
+      ]
+    },
+    {
+      "nombre": "Cabañas Sinduly",
+      "tipo": "Cabañas rurales",
+      "categoria": "Hospedaje"
+    },
+    {
+      "nombre": "Campando Ando",
+      "tipo": "Camping",
+      "categoria": "Hospedaje"
+    },
+    {
+      "nombre": "Cabaña El Cucharo",
+      "tipo": "Cabaña",
+      "categoria": "Hospedaje"
+    },
+    {
+      "nombre": "Hotel Renacer",
+      "tipo": "Hotel",
+      "categoria": "Hospedaje"
+    },
+    {
+      "nombre": "Villa Mercedes",
+      "tipo": "Villa",
+      "categoria": "Hospedaje"
+    },
+    {
+      "nombre": "Hotel Suárez",
+      "tipo": "Hotel",
+      "categoria": "Hospedaje"
+    },
+    {
+      "nombre": "Hotel La Mansión",
+      "tipo": "Hotel",
+      "categoria": "Hospedaje"
+    },
+    {
+      "nombre": "Hotel Camelia Real de Briceño",
+      "tipo": "Hotel",
+      "categoria": "Hospedaje"
+    },
+    {
+      "nombre": "Hotel y Parqueadero Briceño",
+      "tipo": "Hotel",
+      "categoria": "Hospedaje"
+    },
+    {
+      "nombre": "Hotel Restaurante Boston",
+      "tipo": "Hotel restaurante",
+      "categoria": "Hospedaje"
+    }
+  ],
+  "restaurantes": [
+    {
+      "nombre": "Flanagan's",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Hamburguesas, comidas rápidas, parrilla y almuerzos",
+      "descripcion": "Restaurante de hamburguesas y comidas rápidas en el centro de Sopó, con trayectoria desde 2013. Ofrece hamburguesas sencillas y en combo, carnes a la parrilla, perros calientes, entradas, malteadas y también almuerzos.",
+      "platos_destacados": [
+        "Hamburguesa de la casa 150 g ($19.000 / combo $30.000)",
+        "Hamburguesa Argentina con pechuga y chorizo argentino ($27.000 / combo $37.500)",
+        "Hamburguesa Costeña con suero costeño y tocineta ($28.000 / combo $38.500)",
+        "Parrillada Flanagan's 300 g ($34.000)",
+        "Parrilla para dos personas ($53.000)",
+        "Súper perro Flanagan's (desde $20.000)",
+        "Malteadas ($13.000)"
+      ],
+      "direccion": "Carrera 4 No. 3-24, Sopó, Cundinamarca",
+      "telefono": "321 430 5729 / (601) 871 0092",
+      "correo": "wsflanagans@gmail.com",
+      "horario": null,
+      "precio_referencia": "Hamburguesas desde $16.000; combos desde $26.500; parrilla entre $14.000 y $53.000 (precios incluyen impuestos)",
+      "servicios": [
+        "Almuerzos",
+        "Para llevar y domicilio (empaque $1.500)"
+      ],
+      "politicas": [
+        "No es pet friendly"
+      ],
+      "sitio_web": "https://flanagans.co",
+      "carta": "https://flanagans.co",
+      "instagram": "https://www.instagram.com/flanaganshamburguesas/",
+      "imagen": "imagenes/flanagans_sopo.jpg",
+      "mas_informacion": "Consulta la carta completa en https://flanagans.co o comunícate al 321 430 5729.",
+      "fuente": "Información suministrada por la beneficiaria y carta publicada en https://flanagans.co",
+      "estado_validacion": "Datos confirmados por la beneficiaria; precios tomados de la carta en línea (noviembre de 2026)"
+    },
+    {
+      "nombre": "La Burger House Sopó",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Hamburguesas artesanales",
+      "descripcion": "Restaurante de hamburguesas artesanales en el centro de Sopó, en funcionamiento desde 2014. Se destaca por sus precios accesibles, su ambiente cálido y familiar y sus combos para compartir.",
+      "platos_destacados": [
+        "Doble con queso (la más pedida)",
+        "La clásica",
+        "Acompañamientos para compartir"
+      ],
+      "direccion": "Carrera 3 No. 3-49, Sopó, Cundinamarca",
+      "telefono": "304 391 2060 (llamada o WhatsApp)",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": null,
+      "servicios": [
+        "Combos para compartir",
+        "Pedidos y catálogo por WhatsApp"
+      ],
+      "politicas": [],
+      "sitio_web": "https://burger-house-sopo.lovable.app",
+      "carta": "Catálogo completo por WhatsApp al 304 391 2060",
+      "instagram": "https://www.instagram.com/laburgerhousesopo/",
+      "imagen": "imagenes/la_burger_house_sopo.jpg",
+      "mas_informacion": "Para ver la carta completa y hacer pedidos, escribe por WhatsApp al 304 391 2060.",
+      "fuente": "Información suministrada por la beneficiaria y sitio web https://burger-house-sopo.lovable.app",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "Gran Papá",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Parrilla, hamburguesas artesanales y comida rápida gourmet",
+      "descripcion": "Restaurante del centro de Sopó con carnes a la parrilla, pescados, hamburguesas artesanales y salchipapas, con porciones generosas y platos para compartir en familia o con amigos. Trabaja con productores locales. Tiene menú infantil, cócteles y, los domingos, ajiaco.",
+      "platos_destacados": [
+        "Esencia Gran Papá ($39.000)",
+        "Gran Papá Burguer (desde $22.500)",
+        "Churrasco con 2 acompañamientos ($44.500)",
+        "Punta de anca ($47.500)",
+        "Salmón en salsa de maracuyá ($49.000)",
+        "Salchipapa Fiera ($58.000)",
+        "Salchipapa familiar para 6 personas ($160.000)",
+        "Ajiaco, solo domingos ($26.000)"
+      ],
+      "direccion": "Carrera 4 No. 3A-05, Sopó, Cundinamarca (fachada gris con negro)",
+      "telefono": "314 657 5218 (llamada o WhatsApp)",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": "Entradas desde $13.500; hamburguesas desde $16.600; carnes entre $44.500 y $80.000; menú infantil $30.000",
+      "servicios": [
+        "Domicilios por WhatsApp",
+        "Reservas de mesa en línea",
+        "Menú infantil",
+        "Platos para compartir",
+        "Cócteles y licores"
+      ],
+      "politicas": [],
+      "sitio_web": "https://linksia.click/linksia/gran_papa/",
+      "carta": "https://www.linksia.click/menuia/gran_papa",
+      "instagram": "https://www.instagram.com/gran_.papa/",
+      "tiktok": "https://www.tiktok.com/@gran_.papa",
+      "imagen": "imagenes/gran_papa_sopo.jpg",
+      "mas_informacion": "Consulta la carta en https://www.linksia.click/menuia/gran_papa o escribe por WhatsApp al 314 657 5218 para pedidos y reservas.",
+      "fuente": "Información suministrada por la beneficiaria y carta publicada en https://www.linksia.click/menuia/gran_papa",
+      "estado_validacion": "Datos confirmados por la beneficiaria; precios tomados de la carta en línea (noviembre de 2026)"
+    },
+    {
+      "nombre": "Restaurante 3 Bohíos",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Cocina creativa artesanal (de autor)",
+      "descripcion": "Restaurante de cocina de autor en el centro de Sopó, preparada con ingredientes frescos y en gran parte de origen local. Nació en 2018 con sus empanadas de autor.",
+      "platos_destacados": [
+        "Empanadas de autor"
+      ],
+      "direccion": "Carrera 2 No. 1-66, Sopó, Cundinamarca",
+      "telefono": "315 309 7800 / 333 729 4013 (llamada o WhatsApp)",
+      "correo": null,
+      "horario": "Lunes, miércoles y jueves: 12:00 m. a 8:00 p. m. Martes: cerrado. Viernes y sábado: 12:00 m. a 10:00 p. m. Domingos y festivos: 12:00 m. a 8:00 p. m. En temporada alta abre todos los días.",
+      "precio_referencia": null,
+      "servicios": [
+        "Reservas",
+        "Pedidos por WhatsApp"
+      ],
+      "politicas": [],
+      "sitio_web": "https://3bohios.wixsite.com/restaurante3bohos-1",
+      "instagram": "https://www.instagram.com/3bohios/",
+      "imagen": "imagenes/restaurante_3_bohios.jpg",
+      "mas_informacion": "Para reservas y pedidos, comunícate al 315 309 7800 o al 333 729 4013.",
+      "fuente": "Información suministrada por la beneficiaria y sitio web https://3bohios.wixsite.com/restaurante3bohos-1",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "Rockarbon",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Restaurante, café y bar, especializado en carnes a la parrilla",
+      "descripcion": "Restaurante, café y bar en el centro de Sopó, especializado en carnes a la parrilla. Abre todos los días desde la mañana hasta la noche.",
+      "platos_destacados": [
+        "Carnes a la parrilla",
+        "Hamburguesas"
+      ],
+      "direccion": "Carrera 3 No. 3-34, Sopó, Cundinamarca",
+      "telefono": "318 373 7510",
+      "correo": null,
+      "horario": "Lunes a domingo: 9:00 a. m. a 9:00 p. m.",
+      "precio_referencia": null,
+      "servicios": [
+        "Restaurante",
+        "Café",
+        "Bar"
+      ],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": "https://www.instagram.com/rockarbon/",
+      "imagen": "imagenes/rockarbon_sopo.jpg",
+      "mas_informacion": "Para conocer la carta y hacer reservas, comunícate al 318 373 7510 o visita su Instagram @rockarbon.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "Veeya Cocina Gourmet",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Cocina gourmet",
+      "descripcion": "Restaurante de cocina gourmet en el centro de Sopó. La marca Veeya también maneja Bruní y Veeya Restobar, cada uno con su propio horario.",
+      "platos_destacados": [],
+      "direccion": "Carrera 3 No. 2-22, Sopó, Cundinamarca",
+      "telefono": "320 354 1701",
+      "correo": null,
+      "horario": "Veeya Gourmet: lunes a viernes de 12:00 m. a 4:00 p. m.; fines de semana y festivos de 12:00 m. a 5:00 p. m.",
+      "otros_espacios": [
+        {
+          "nombre": "Bruní",
+          "horario": "Lunes a viernes de 9:00 a. m. a 8:00 p. m.; fines de semana de 10:00 a. m. a 8:00 p. m."
+        },
+        {
+          "nombre": "Veeya Restobar",
+          "horario": "Miércoles y jueves de 3:00 p. m. a 11:00 p. m.; viernes de 3:00 p. m. a 1:00 a. m.; sábado de 12:00 m. a 1:00 a. m.; domingo de 12:00 m. a 9:00 p. m.; lunes y martes cerrado"
+        }
+      ],
+      "precio_referencia": null,
+      "servicios": [],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": "https://www.instagram.com/veeyagourmet/",
+      "facebook": "https://www.facebook.com/veeyagourmet/",
+      "imagen": "imagenes/veeya_sopo.jpg",
+      "mas_informacion": "Para conocer la carta y hacer reservas, comunícate al 320 354 1701 o visita su Instagram @veeyagourmet.",
+      "fuente": "Información suministrada por la beneficiaria e Instagram @veeyagourmet",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "Casa Vesta",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Restaurante-café de brunch, café de especialidad, repostería y vinos",
+      "descripcion": "Restaurante-café en el parque principal de Sopó, ubicado en una casa de más de 150 años renovada, con ambiente acogedor y familiar. Ofrece brunch a cualquier hora, café de especialidad, repostería, amasijos tradicionales de la región y vinos, además de opciones vegetarianas.",
+      "platos_destacados": [
+        "Huevos napolitanos",
+        "Tostadas francesas",
+        "Pancakes",
+        "Crepes, pastas y paninis",
+        "Tortas, postres y amasijos tradicionales",
+        "Café de especialidad, mimosas y vino"
+      ],
+      "direccion": "Calle 2 No. 3-08, Local 1, Parque Principal, Sopó, Cundinamarca (entrada por el costado de la calle 2)",
+      "telefono": "324 896 1763 (llamada o WhatsApp)",
+      "correo": "casavestasopo@gmail.com",
+      "horario": "Lunes a miércoles: 9:00 a. m. a 7:00 p. m. Jueves: 9:00 a. m. a 8:00 p. m. Viernes y sábado: 8:00 a. m. a 9:00 p. m. Domingo: 8:00 a. m. a 7:00 p. m.",
+      "precio_referencia": null,
+      "servicios": [
+        "Brunch a cualquier hora",
+        "Opciones vegetarianas",
+        "Reservas",
+        "Espacio para eventos"
+      ],
+      "politicas": [],
+      "sitio_web": "https://sites.google.com/view/casavestasopo",
+      "instagram": "https://www.instagram.com/casavestasopo/",
+      "imagen": "imagenes/casa_vesta_sopo.jpg",
+      "mas_informacion": "Para reservas y eventos, comunícate al 324 896 1763 o escribe a casavestasopo@gmail.com.",
+      "fuente": "Información suministrada por la beneficiaria y sitio web https://sites.google.com/view/casavestasopo",
+      "estado_validacion": "Datos confirmados por la beneficiaria; horario suministrado por la beneficiaria (noviembre de 2026)"
+    },
+    {
+      "nombre": "Mua Café",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Cafetería",
+      "descripcion": "Cafetería en Sopó con bebidas de café, chocolate, tés, aromáticas, bebidas frías y jugos naturales. Abre todos los días desde temprano en la mañana hasta la noche, con precios desde $3.000.",
+      "platos_destacados": [
+        "Espresso sencillo ($3.000)",
+        "Capuccino ($4.600 / $5.300)",
+        "Canelazo ($5.500 / $6.000)",
+        "Café irlandés ($9.000)",
+        "Affogato ($10.000)",
+        "Chocolate con masmelos ($9.000)",
+        "Granizado de café ($6.500)"
+      ],
+      "carta": [
+        {
+          "producto": "Espresso sencillo",
+          "precio_7oz": "$3.000"
+        },
+        {
+          "producto": "Espresso doble",
+          "precio_7oz": "$4.200"
+        },
+        {
+          "producto": "Americano",
+          "precio_7oz": "$3.000",
+          "precio_10oz": "$4.000"
+        },
+        {
+          "producto": "Campesino",
+          "precio_7oz": "$3.400",
+          "precio_10oz": "$4.400"
+        },
+        {
+          "producto": "Macchiato",
+          "precio_7oz": "$4.100"
+        },
+        {
+          "producto": "Latte",
+          "precio_7oz": "$4.100",
+          "precio_10oz": "$4.700"
+        },
+        {
+          "producto": "Mocaccino",
+          "precio_7oz": "$4.700",
+          "precio_10oz": "$5.300"
+        },
+        {
+          "producto": "Capuccino",
+          "precio_7oz": "$4.600",
+          "precio_10oz": "$5.300"
+        },
+        {
+          "producto": "Capuccino con licor",
+          "precio_10oz": "$8.000"
+        },
+        {
+          "producto": "Carajillo",
+          "precio_7oz": "$5.500",
+          "precio_10oz": "$6.000"
+        },
+        {
+          "producto": "Café irlandés",
+          "precio_10oz": "$9.000"
+        },
+        {
+          "producto": "Affogato",
+          "precio_10oz": "$10.000"
+        },
+        {
+          "producto": "Chocolate",
+          "precio_10oz": "$4.700"
+        },
+        {
+          "producto": "Chocolate con masmelos",
+          "precio_10oz": "$9.000"
+        },
+        {
+          "producto": "Milo",
+          "precio_10oz": "$5.000"
+        },
+        {
+          "producto": "Té chai",
+          "precio_10oz": "$6.500"
+        },
+        {
+          "producto": "Té – infusiones",
+          "precio_10oz": "$5.000"
+        },
+        {
+          "producto": "Aromática",
+          "precio_10oz": "$3.000"
+        },
+        {
+          "producto": "Agua de panela",
+          "precio_10oz": "$3.100"
+        },
+        {
+          "producto": "Canelazo",
+          "precio_7oz": "$5.500",
+          "precio_10oz": "$6.000"
+        },
+        {
+          "producto": "Latte frío",
+          "precio_10oz": "$6.500"
+        },
+        {
+          "producto": "Té chai frío",
+          "precio_10oz": "$7.500"
+        },
+        {
+          "producto": "Milo frío",
+          "precio_10oz": "$7.500"
+        },
+        {
+          "producto": "Granizado de café",
+          "precio_10oz": "$6.500"
+        },
+        {
+          "producto": "Granizado de chocolate",
+          "precio_10oz": "$6.500"
+        },
+        {
+          "producto": "Limonada natural",
+          "precio_10oz": "$5.000"
+        },
+        {
+          "producto": "Jugo en agua",
+          "precio_10oz": "$6.000"
+        },
+        {
+          "producto": "Jugo en leche",
+          "precio_10oz": "$7.000"
+        }
+      ],
+      "direccion": "Carrera 4 No. 2-81, Sopó, Cundinamarca",
+      "telefono": "313 337 6683",
+      "correo": null,
+      "horario": "Todos los días de 6:45 a. m. a 9:30 p. m.",
+      "precio_referencia": "Bebidas entre $3.000 y $10.000 (tamaños de 7 oz y 10 oz)",
+      "servicios": [
+        "Cafetería",
+        "Bebidas calientes y frías",
+        "Jugos naturales"
+      ],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": "https://www.instagram.com/muacafe1/",
+      "imagen": "imagenes/mua_cafe_sopo.jpg",
+      "mas_informacion": "Para más información, comunícate al 313 337 6683 o visita su Instagram @muacafe1.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "Chino Bistró Cundi-Japonés",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Bistró de fusión cundinamarquesa-japonesa (Cundi-Japonés)",
+      "descripcion": "Bistró en el centro de Sopó que mezcla la cocina japonesa con sabores e ingredientes de Cundinamarca, con preparaciones como rollos de sushi.",
+      "platos_destacados": [
+        "Rollos de sushi de fusión"
+      ],
+      "direccion": "Centro, Sopó, Cundinamarca",
+      "telefono": "320 264 5499 / 313 453 1890",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": null,
+      "servicios": [],
+      "politicas": [],
+      "sitio_web": null,
+      "carta": "https://heyzine.com/flip-book/9f251c08dc.html",
+      "instagram": "https://www.instagram.com/elchino_cocina/",
+      "imagen": "imagenes/el_chino_bistro_sopo.jpg",
+      "mas_informacion": "Consulta la carta en https://heyzine.com/flip-book/9f251c08dc.html o comunícate al 320 264 5499 o al 313 453 1890.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Datos confirmados por la beneficiaria; falta dirección exacta"
+    },
+    {
+      "nombre": "Satori Sopó",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Cocina oriental",
+      "descripcion": "Restaurante de cocina oriental en el centro de Sopó, pionero en traer al municipio sabores auténticos de todo oriente. Ofrece rollos de sushi, ramen, pokes, arroces y wok, en una experiencia gastronómica para viajar por el mundo sin salir de Sopó.",
+      "platos_destacados": [
+        "Rollos de sushi",
+        "Ramen",
+        "Pokes",
+        "Arroces",
+        "Wok"
+      ],
+      "direccion": "Calle 2 No. 3-12, Sopó, Cundinamarca",
+      "telefono": "321 315 2248",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": null,
+      "servicios": [],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": "https://www.instagram.com/satorisopo/",
+      "imagen": "imagenes/satori_sopo.jpg",
+      "mas_informacion": "Para conocer la carta y hacer reservas, comunícate al 321 315 2248 o visita su Instagram @satorisopo.",
+      "fuente": "Información suministrada por la beneficiaria e Instagram @satorisopo",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "Paprika Cocina a la Leña",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Cocina a la leña: parrillas, churrascos, hamburguesas, ensaladas y opciones vegetarianas",
+      "descripcion": "Restaurante de cocina a la leña que nació en Sopó con el sueño de preparar productos a la leña con el sabor del pueblo; empezó en un pequeño local del parque principal. Ofrece parrillas, churrascos, hamburguesas, ensaladas y menú vegetariano. Es pet friendly y también tiene sede en Tocancipá.",
+      "platos_destacados": [
+        "Parrilla argentina de 450 g ($48.000)",
+        "Churrasco francés con champiñones de la casa ($44.000)",
+        "Churrasco colombiano con hogao criollo ($42.000)",
+        "Ensalada César con salmón a la leña ($39.000)",
+        "Hamburguesa clásica 3 carnes ($24.500)",
+        "Hamburguesa veggie francesa ($17.500)"
+      ],
+      "direccion": "Calle 3 No. 4-33, Sopó, Cundinamarca",
+      "telefono": "312 589 2193 / (601) 871 1294",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": "Hamburguesas desde $17.500; churrascos y parrillas entre $42.000 y $48.000 (precios publicados en su página web; pueden haber cambiado)",
+      "servicios": [
+        "Domicilios",
+        "Reservas por WhatsApp",
+        "Eventos",
+        "Menú vegetariano",
+        "Combos de hamburguesas"
+      ],
+      "politicas": [
+        "Pet friendly: las mascotas pueden ingresar bajo responsabilidad del cliente"
+      ],
+      "otras_sedes": [
+        "Tocancipá: Carrera 7 No. 7-97, piso 2. Tel. (601) 869 8822 / 312 503 7392"
+      ],
+      "sitio_web": "https://paprikarestaurante.com",
+      "carta": "https://drive.google.com/file/d/1QcUxoTK_M5Y8r7LDBkGzode0uxcmiKq7/view",
+      "facebook": "https://www.facebook.com/Paprikacocinaalalena/",
+      "imagen": "imagenes/paprika_sopo.jpg",
+      "mas_informacion": "Consulta la carta 2026 en https://drive.google.com/file/d/1QcUxoTK_M5Y8r7LDBkGzode0uxcmiKq7/view o escribe por WhatsApp al 312 589 2193 para reservas y domicilios.",
+      "fuente": "Información suministrada por la beneficiaria y sitio web https://paprikarestaurante.com",
+      "estado_validacion": "Dirección suministrada por la beneficiaria; el sitio web registra Calle 3 No. 2-26, Parque Principal. Confirmar."
+    },
+    {
+      "nombre": "FallA",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Comida típica huilense",
+      "descripcion": "Restaurante de comida tradicional huilense en Sopó, con menú de tres tiempos. Recibe reservas por WhatsApp y ofrece servicio de catering.",
+      "platos_destacados": [
+        "Menú de tres tiempos de cocina huilense"
+      ],
+      "direccion": "Calle 1 No. 2-18, Sopó, Cundinamarca",
+      "telefono": "310 269 4386 (llamada o WhatsApp)",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": null,
+      "servicios": [
+        "Menú de tres tiempos",
+        "Reservas por WhatsApp",
+        "Catering"
+      ],
+      "politicas": [],
+      "sitio_web": "https://sites.google.com/view/comida-tradicional/menú",
+      "carta": "https://sites.google.com/view/comida-tradicional/menú",
+      "facebook": "https://www.facebook.com/p/Fallacocina-61589801807612/",
+      "instagram": null,
+      "imagen": "imagenes/falla_sopo.jpg",
+      "mas_informacion": "Consulta el menú en https://sites.google.com/view/comida-tradicional/menú o escribe por WhatsApp al 310 269 4386 para reservas y catering.",
+      "fuente": "Información suministrada por la beneficiaria y sitio web del restaurante",
+      "estado_validacion": "Dirección suministrada por la beneficiaria; el sitio web registra Carrera 5 No. 3-14. Confirmar."
+    },
+    {
+      "nombre": "Sandwichería El Patio",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Sándwiches artesanales",
+      "descripcion": "Sandwichería artesanal en Sopó que se presenta como un \"taller de sabores\". Prepara sándwiches en pan artesanal con ingredientes frescos y carnes con el toque especial del chef, además de entradas para compartir.",
+      "platos_destacados": [
+        "Sándwich Chicharrón Montañero en pan artesanal",
+        "Savia Panino",
+        "Deditos de queso (entrada)"
+      ],
+      "direccion": "Carrera 4 No. 5-84, Sopó, Cundinamarca",
+      "telefono": "313 452 8482",
+      "correo": null,
+      "horario": "Lunes, martes, jueves, viernes, sábado y domingo, por lo general de 12:00 m. a 8:00 p. m. o 9:00 p. m. (varía ligeramente según el día). Miércoles cerrado.",
+      "precio_referencia": null,
+      "servicios": [
+        "Pago con tarjetas de crédito y débito"
+      ],
+      "politicas": [],
+      "sitio_web": "https://sopo.info/ox_portfolio/sandwicheria-el-patio/",
+      "carta": "https://sopo.info/ox_portfolio/sandwicheria-el-patio/",
+      "facebook": "https://www.facebook.com/elpatiosopo",
+      "instagram": "https://www.instagram.com/sandwicheriaelpatio/",
+      "imagen": "imagenes/sandwicheria_el_patio.jpg",
+      "mas_informacion": "Consulta el menú en https://sopo.info/ox_portfolio/sandwicheria-el-patio/ o comunícate al 313 452 8482.",
+      "fuente": "Información suministrada por la beneficiaria y ficha en https://sopo.info",
+      "estado_validacion": "Datos confirmados por la beneficiaria (cierra los miércoles)"
+    },
+    {
+      "nombre": "Casa Vieja Cocina",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Parrilla, pizzería y hamburguesería",
+      "descripcion": "Restaurante en una casa tradicional del centro de Sopó, con patio y zonas al aire libre. Ofrece parrilla, pizzas y hamburguesas, menú ejecutivo entre semana y platos a la carta. También es espacio para eventos y celebraciones de fechas especiales.",
+      "platos_destacados": [
+        "Parrilla",
+        "Pizzas",
+        "Hamburguesas",
+        "Menú ejecutivo (lunes a viernes)"
+      ],
+      "direccion": "Carrera 2 No. 1-02, Sopó, Cundinamarca",
+      "telefono": "312 307 6068 / 301 578 3121",
+      "correo": null,
+      "horario": "Menú ejecutivo de lunes a viernes de 12:00 m. a 3:00 p. m., además de platos a la carta.",
+      "precio_referencia": null,
+      "servicios": [
+        "Menú ejecutivo entre semana",
+        "Platos a la carta",
+        "Eventos",
+        "Celebración de fechas especiales",
+        "Reservas"
+      ],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": "https://www.instagram.com/casaviejasopo/",
+      "imagen": "imagenes/casa_vieja_sopo.jpg",
+      "mas_informacion": "Para reservas y eventos, comunícate al 312 307 6068 o al 301 578 3121, o visita su Instagram @casaviejasopo.",
+      "fuente": "Información suministrada por la beneficiaria y publicación del restaurante",
+      "estado_validacion": "Datos confirmados por la beneficiaria; la publicación del restaurante muestra además el número 300 545 1279"
+    },
+    {
+      "nombre": "Carnes al Horno La Plazoleta",
+      "alias": [
+        "El Hornito Sopó"
+      ],
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Carnes al horno y comida típica",
+      "descripcion": "Restaurante que se presenta como \"la mejor carne al horno de la Sabana\". Ofrece carne al horno, picadas, sopas, entradas y bebidas, acompañadas de papa criolla y arepa.",
+      "platos_destacados": [
+        "Carne al horno",
+        "Picadas",
+        "Sopas",
+        "Entradas"
+      ],
+      "direccion": "Carrera 4 No. 3-98, Sopó, Cundinamarca",
+      "telefono": "302 386 1691 / 300 868 5932 / 300 987 6565",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": null,
+      "servicios": [],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": "https://www.instagram.com/elhornito.sopo/",
+      "imagen": "imagenes/carnes_al_horno_la_plazoleta.jpg",
+      "mas_informacion": "Para pedidos y reservas, comunícate al 302 386 1691, al 300 868 5932 o al 300 987 6565, o visita su Instagram @elhornito.sopo.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "Café Siete Onzas",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Cafetería de cafés especiales y repostería",
+      "descripcion": "Cafetería en Sopó de cafés de especialidad 100 % colombianos y repostería, con mesas al aire libre. Su lema: tradición, familias, pasión, amor, arte, encuentros y alegría, todos en una taza de café.",
+      "platos_destacados": [
+        "Cafés de especialidad 100 % colombianos",
+        "Repostería"
+      ],
+      "direccion": "Carrera 4 No. 5-82, Sopó, Cundinamarca",
+      "telefono": "304 522 9910 / 304 214 8821",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": null,
+      "servicios": [
+        "Mesas al aire libre"
+      ],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": "https://www.instagram.com/cafe.sieteonzas/",
+      "imagen": "imagenes/cafe_siete_onzas.jpg",
+      "mas_informacion": "Para más información, comunícate al 304 522 9910 o al 304 214 8821, o visita su Instagram @cafe.sieteonzas.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "El Guasca Restaurante",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Comida típica colombiana",
+      "descripcion": "Restaurante de comida típica sobre la vía La Calera - Sopó, con sopas tradicionales, platos fuertes, pescados y opciones para niños.",
+      "platos_destacados": [
+        "Sopita de ajiaco ($15.000)",
+        "1/2 Mondongo con arroz, aguacate y patacón ($18.000)",
+        "Montañero ($38.000)",
+        "Pechuga gratinada ($40.000)",
+        "Carne en bistec ($45.000)",
+        "Lengua en salsa ($45.000)",
+        "Trucha gratinada con patacón, arroz y ensalada ($45.000)",
+        "Mojarra frita con patacón, arroz y ensalada ($55.000)",
+        "Chunchullo ($12.000)"
+      ],
+      "direccion": "Vía La Calera - Sopó, Sopó, Cundinamarca",
+      "telefono": "313 492 0310",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": "Entradas desde $12.000; sopas desde $15.000; platos fuertes y pescados entre $38.000 y $55.000",
+      "servicios": [
+        "Comida típica",
+        "Menú infantil (papas a la francesa o arroz)"
+      ],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": null,
+      "imagen": "imagenes/el_guasca_sopo.jpg",
+      "mas_informacion": "Para más información y reservas, comunícate al 313 492 0310.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Datos confirmados por la beneficiaria; falta horario"
+    },
+    {
+      "nombre": "Trattoria La Gloria Express",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Cocina italiana: pizza y pasta",
+      "descripcion": "Trattoria de comida italiana hecha con amor, con pizzas y pastas. Tiene sedes en Sopó y La Calera.",
+      "platos_destacados": [
+        "Pizza",
+        "Pasta"
+      ],
+      "direccion": "Carrera 4 No. 5-98, Sopó, Cundinamarca",
+      "telefono": "320 753 7800",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": null,
+      "servicios": [
+        "Cocina italiana",
+        "Mesas en el local"
+      ],
+      "politicas": [],
+      "otras_sedes": [
+        "La Calera"
+      ],
+      "sitio_web": null,
+      "instagram": "https://www.instagram.com/lagloriacucina/",
+      "imagen": "imagenes/la_gloria_sopo.jpg",
+      "mas_informacion": "Para más información y pedidos, comunícate al 320 753 7800 o visita su Instagram @lagloriacucina.",
+      "fuente": "Información suministrada por la beneficiaria e Instagram @lagloriacucina",
+      "estado_validacion": "Datos confirmados por la beneficiaria; falta horario"
+    },
+    {
+      "nombre": "Abuelita Salón de Onces",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Salón de onces: postres tradicionales y bebidas",
+      "descripcion": "Salón de onces en el centro de Sopó dedicado a la producción y venta de postres hechos con calidad y cariño, con las mejores materias primas. Ofrece postres tradicionales colombianos como postre de natas, brevas con arequipe y leche asada, además de bebidas calientes. Abre todos los días.",
+      "platos_destacados": [
+        "Postre de natas",
+        "Brevas con arequipe",
+        "Leche asada",
+        "Agua de panela con queso",
+        "Tres leches",
+        "Natilla con mora"
+      ],
+      "productos": [
+        "Postre de natas",
+        "Agua de panela con queso",
+        "Almendrín",
+        "Arequipe",
+        "Arroz de leche",
+        "Brevas con arequipe",
+        "Capuccino",
+        "Cheesecake de limón",
+        "Delicia de moras",
+        "Fresas con crema",
+        "Fusión de chocolate",
+        "Leche asada",
+        "Mantecada",
+        "Mocaccino",
+        "Natilla con mora",
+        "Postre de café",
+        "Postre de maracuyá",
+        "Postre de guanábana",
+        "Tiramisú",
+        "Tres leches"
+      ],
+      "direccion": "Carrera 3 No. 2-76, Sopó, Cundinamarca",
+      "telefono": "311 208 9775",
+      "correo": "connyferro22@hotmail.com",
+      "horario": "Todos los días de 8:00 a. m. a 8:00 p. m.",
+      "precio_referencia": null,
+      "servicios": [
+        "Postres",
+        "Bebidas calientes",
+        "Onces"
+      ],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": null,
+      "imagen": "imagenes/abuelita_salon_de_onces_sopo.jpg",
+      "mas_informacion": "Abre todos los días de 8:00 a. m. a 8:00 p. m. en la Carrera 3 No. 2-76. Para más información comunícate al 311 208 9775 o escribe a connyferro22@hotmail.com.",
+      "fuente": "Información suministrada por la beneficiaria y ficha del establecimiento en Google",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    },
+    {
+      "nombre": "Sorcitas Pastelería y Salón de Onces",
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Pastelería y salón de onces",
+      "descripcion": "Pastelería y salón de onces en el centro de Sopó, ideal para tomar algo y disfrutar productos de pastelería.",
+      "platos_destacados": [],
+      "direccion": "Calle 1 No. 3-79, Sopó, Cundinamarca",
+      "telefono": "315 544 9151",
+      "correo": "sorcitaspasteleria@hotmail.com",
+      "horario": null,
+      "precio_referencia": null,
+      "servicios": [
+        "Pastelería",
+        "Onces"
+      ],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": "https://www.instagram.com/sorcitaspasteleria/",
+      "imagen": "imagenes/sorcitas_sopo.jpg",
+      "mas_informacion": "Para más información comunícate al 315 544 9151, escribe a sorcitaspasteleria@hotmail.com o visita su Instagram @sorcitaspasteleria.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Datos confirmados por la beneficiaria; falta horario y productos"
+    },
+    {
+      "nombre": "Naviero Pescadería",
+      "alias": [
+        "Naviero"
+      ],
+      "categoria": "Gastronomía",
+      "tipo_cocina": "Comida de mar y sushi",
+      "descripcion": "Restaurante especializado en comida de mar, con terraza en la azotea, chimenea y música en vivo. Todos los jueves ofrece \"all you can eat\" de sushi.",
+      "platos_destacados": [
+        "Comida de mar",
+        "Sushi (all you can eat los jueves)"
+      ],
+      "direccion": "Calle 1 No. 1-65, Sopó, Cundinamarca",
+      "telefono": "302 820 2222",
+      "correo": null,
+      "horario": "Lunes: 12:00 m. a 5:00 p. m. Martes y miércoles: 12:00 m. a 8:00 p. m. Jueves: 12:00 m. a 8:30 p. m. Viernes y sábado: 12:00 m. a 10:00 p. m. Domingo: 11:00 a. m. a 7:00 p. m.",
+      "precio_referencia": null,
+      "servicios": [
+        "All you can eat de sushi los jueves",
+        "Terraza en la azotea",
+        "Chimenea",
+        "Música en vivo"
+      ],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": "https://www.instagram.com/naviero_pescaderia/",
+      "imagen": "imagenes/naviero_pescaderia_sopo.jpg",
+      "mas_informacion": "Para reservas y más información, comunícate al 302 820 2222 o visita su Instagram @naviero_pescaderia.",
+      "fuente": "Información suministrada por la beneficiaria y ficha del establecimiento en Google",
+      "estado_validacion": "Datos confirmados por la beneficiaria"
+    }
+  ],
+  "eventos": [
+    {
+      "nombre": "Muestras Artísticas del Segundo Semestre - Escuela RECREARTE",
+      "categoria": "Eventos",
+      "tipo": "Muestras artísticas y culturales",
+      "descripcion": "Presentaciones de cierre de semestre de los estudiantes de la Escuela RECREARTE: música, danza, teatro, artes plásticas y creación audiovisual. Entrada libre.",
+      "fechas": "Del 17 de noviembre al 4 de diciembre de 2026",
+      "lugares": [
+        "Auditorio de la Casa de la Cultura",
+        "Salón Negro CIC",
+        "Lobby CIC",
+        "Zona verde CIC",
+        "Sala de Literatura y Arte Infantil",
+        "Campo Auxiliar Coliseo Municipal",
+        "Nuevo Colegio Pablo VI"
+      ],
+      "organiza": "Alcaldía de Sopó - Escuela de formación artística RECREARTE (con Sopó FM 95.6)",
+      "precio_referencia": "Entrada libre",
+      "servicios": [
+        "Música",
+        "Danza",
+        "Teatro",
+        "Artes plásticas",
+        "Audiovisual",
+        "Plan familiar"
+      ],
+      "programacion": [
+        {
+          "fecha": "2026-11-17",
+          "hora": "3:00 p.m.",
+          "muestra": "Piano",
+          "formador": "Maestra Lisa Ramos",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-11-17",
+          "hora": "5:00 p.m.",
+          "muestra": "Guitarra popular",
+          "formador": "Maestro Fernando Arias",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-11-18",
+          "hora": "5:00 p.m.",
+          "muestra": "Música campesina",
+          "formador": "Maestro Andersson Silva",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-11-18",
+          "hora": "6:00 p.m.",
+          "muestra": "Banda popular",
+          "formador": "Maestro Nicolás Manzanares",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-11-19",
+          "hora": "5:00 p.m.",
+          "muestra": "Técnica vocal",
+          "formador": "Maestra Camila Piñeros",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-11-19",
+          "hora": "6:00 p.m.",
+          "muestra": "Guitarra clásica y estudiantina",
+          "formador": "Maestro Johan Olaya",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-11-20",
+          "hora": "9:00 a.m.",
+          "muestra": "Programa técnico en artes plásticas",
+          "formador": "Liceo Fray Francisco Chacón",
+          "lugar": "Sala de Literatura y Arte Infantil"
+        },
+        {
+          "fecha": "2026-11-20",
+          "hora": "5:00 p.m.",
+          "muestra": "Técnica vocal",
+          "formador": "Maestra Camila Piñeros",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-11-20",
+          "hora": "6:00 p.m.",
+          "muestra": "Música llanera",
+          "formador": "Maestro Mateo Daza",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-11-23",
+          "hora": "5:00 p.m.",
+          "muestra": "Violín",
+          "formador": "Maestra Victoria Cañón",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-11-23",
+          "hora": "6:00 p.m.",
+          "muestra": "Viola",
+          "formador": "Maestra María de los Ángeles Porras",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-11-24",
+          "hora": "6:00 p.m.",
+          "muestra": "Orquesta tropical",
+          "formador": "Maestro Manuel Moncada",
+          "lugar": "Lobby CIC"
+        },
+        {
+          "fecha": "2026-11-25",
+          "hora": "9:00 a.m.",
+          "muestra": "Programa técnico música",
+          "formador": "Estudiantes Colegio Cooperativo y Liceo Fray Francisco Chacón",
+          "lugar": "Nuevo Colegio Pablo VI"
+        },
+        {
+          "fecha": "2026-11-26",
+          "hora": "4:00 p.m.",
+          "muestra": "Tuna",
+          "formador": "Maestra Alejandra Núñez",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-11-26",
+          "hora": "6:00 p.m.",
+          "muestra": "Ensamble de jazz",
+          "formador": "Maestro Manuel Moncada",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-11-27",
+          "hora": "5:00 p.m.",
+          "muestra": "Danza folclórica, ballet y jazz, danza urbana, danzas modernas y programas descentralizados",
+          "formador": "",
+          "lugar": "Campo Auxiliar Coliseo Municipal"
+        },
+        {
+          "fecha": "2026-11-28",
+          "hora": "3:00 p.m.",
+          "muestra": "Danza folclórica, ballet y jazz, danza urbana, danzas modernas y programas descentralizados",
+          "formador": "",
+          "lugar": "Campo Auxiliar Coliseo Municipal"
+        },
+        {
+          "fecha": "2026-11-30",
+          "hora": "4:00 p.m.",
+          "muestra": "Creación audiovisual",
+          "formador": "Maestro Pablo Arias",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-11-30",
+          "hora": "4:00 p.m.",
+          "muestra": "Muestra área de teatro",
+          "formador": "",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-11-30",
+          "hora": "4:00 p.m.",
+          "muestra": "Banda sinfónica pre infantil",
+          "formador": "Marian Trujillo",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-11-30",
+          "hora": "5:00 p.m.",
+          "muestra": "Contrabajo y bajo eléctrico",
+          "formador": "Maestro Mario Villada",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-11-30",
+          "hora": "6:00 p.m.",
+          "muestra": "Batería y percusión latina",
+          "formador": "Maestro Andrés Torres",
+          "lugar": "Zona verde CIC"
+        },
+        {
+          "fecha": "2026-12-01",
+          "hora": "4:00 p.m.",
+          "muestra": "Despertar de los sentidos",
+          "formador": "Maestra Michelle Maya",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-12-01",
+          "hora": "5:00 p.m.",
+          "muestra": "Iniciación musical",
+          "formador": "Maestra Nathalia Velandia",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-12-01",
+          "hora": "6:00 p.m.",
+          "muestra": "Orquestas Osis y Junior",
+          "formador": "Área de Cuerdas Frotadas",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-12-02",
+          "hora": "4:00 p.m.",
+          "muestra": "Violonchelo",
+          "formador": "Maestro Jorge Garzón",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-12-02",
+          "hora": "5:00 p.m.",
+          "muestra": "Música moderna",
+          "formador": "Maestro Leonardo Arias",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-12-03",
+          "hora": "4:00 p.m.",
+          "muestra": "Piano",
+          "formador": "Maestro Brayan Cruz",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-12-03",
+          "hora": "6:00 p.m.",
+          "muestra": "Trombón",
+          "formador": "Maestro Bayron Pedraza",
+          "lugar": "Auditorio de la Casa de la Cultura"
+        },
+        {
+          "fecha": "2026-12-04",
+          "hora": "4:00 p.m.",
+          "muestra": "Área de artes plásticas y visuales",
+          "formador": "",
+          "lugar": "Lobby CIC"
+        },
+        {
+          "fecha": "2026-12-04",
+          "hora": "5:00 p.m.",
+          "muestra": "Coro",
+          "formador": "Maestra Solange González",
+          "lugar": "Salón Negro CIC"
+        },
+        {
+          "fecha": "2026-12-04",
+          "hora": "6:00 p.m.",
+          "muestra": "Música vallenata",
+          "formador": "Maestro Leonardo Martínez",
+          "lugar": "Salón Negro CIC"
+        }
+      ],
+      "telefono": null,
+      "imagen": "imagenes/muestras_recrearte_2026.jpg",
+      "mas_informacion": "Consulta la programación día por día preguntándole a Sophia o en las redes oficiales de la Alcaldía de Sopó.",
+      "fuente": "Publicación oficial de la Alcaldía de Sopó (Facebook), noviembre de 2026",
+      "estado_validacion": "Programación tomada de la publicación oficial; entrada libre confirmada por la beneficiaria"
+    },
+    {
+      "nombre": "IX Media Maratón Señor de la Piedra de Sopó",
+      "categoria": "Eventos",
+      "tipo": "Evento deportivo",
+      "descripcion": "Novena edición de la media maratón del municipio, dedicada al Señor de la Piedra. Las inscripciones para correr ya están cerradas, pero es una excelente oportunidad para ir como espectador, apoyar a los corredores y disfrutar el ambiente deportivo del municipio.",
+      "fechas": "6 de diciembre de 2026",
+      "lugares": [],
+      "organiza": "Alcaldía de Sopó (con Sopó FM 95.6)",
+      "precio_referencia": null,
+      "servicios": [
+        "Deporte",
+        "Running",
+        "Plan para espectadores"
+      ],
+      "inscripciones_estado": "cerradas",
+      "telefono": "+57 317 421 9386 (Línea de servicio a la ciudadanía)",
+      "correo": "contactenos@sopo-cundinamarca.gov.co",
+      "imagen": "imagenes/media_maraton_2026.jpg",
+      "mas_informacion": "Las inscripciones están cerradas. Para información del recorrido, comunícate con la Alcaldía al 317 421 9386 o a contactenos@sopo-cundinamarca.gov.co.",
+      "fuente": "Publicación oficial Alcaldía de Sopó y página de registro sopo-cundinamarca.gov.co, noviembre 2026",
+      "estado_validacion": "Fecha tomada de la publicación oficial; inscripciones cerradas según la beneficiaria"
+    }
+  ],
+  "festivales": [
+    {
+      "nombre": "Festival del Postre \"Sopó, Municipio Dulce\"",
+      "categoria": "Festivales",
+      "tipo": "Festival gastronómico",
+      "descripcion": "Festival anual que reúne a productores y emprendedores locales con postres artesanales, comida típica, bebidas, artesanías, tejidos, accesorios y productos para mascotas. Su tercera edición (2026) contó con 14 productores locales de postres y más de 30 emprendedores en la muestra general.",
+      "periodicidad": "Anual, en septiembre",
+      "ultima_edicion": "III edición: 5 y 6 de septiembre de 2026",
+      "lugar": "Coliseo Municipal de Sopó",
+      "organiza": "Alcaldía de Sopó",
+      "oferta": [
+        "Postres artesanales",
+        "Comida típica",
+        "Bebidas",
+        "Artesanías",
+        "Tejidos",
+        "Accesorios",
+        "Productos para mascotas"
+      ],
+      "precio_referencia": null,
+      "telefono": null,
+      "facebook": "https://www.facebook.com/AlcaldiadeSopo/",
+      "imagen": "imagenes/festival_del_postre_sopo.jpg",
+      "mas_informacion": "El festival se realiza cada año en septiembre. Sigue las redes oficiales de la Alcaldía de Sopó para conocer la fecha de la próxima edición.",
+      "fuente": "Información suministrada por la beneficiaria y publicaciones oficiales de la Alcaldía de Sopó (Facebook e Instagram)",
+      "estado_validacion": "Fechas y balance tomados de publicaciones oficiales de la Alcaldía"
+    },
+    {
+      "nombre": "Festival del Queso de Sopó",
+      "categoria": "Festivales",
+      "tipo": "Festival gastronómico",
+      "descripcion": "Festival anual en el Parque Principal de Sopó que da la bienvenida a la Semana Santa. Reúne a productores de quesos frescos, especiales y madurados de la región Sabana Centro, con talleres, demostraciones en vivo, maridajes, música carranguera y danza tradicional. Su segunda edición (2026) tuvo más de 3.000 asistentes y ventas superiores a $80 millones.",
+      "periodicidad": "Anual, a finales de marzo o comienzos de abril (inicio de la Semana Santa)",
+      "ultima_edicion": "II edición: domingo 29 de marzo de 2026",
+      "lugar": "Parque Principal de Sopó",
+      "organiza": "Alcaldía de Sopó",
+      "oferta": [
+        "Quesos frescos",
+        "Quesos especiales",
+        "Quesos madurados",
+        "Queso con bocadillo"
+      ],
+      "actividades": [
+        "Elaboración de mozzarella en vivo",
+        "Taller con chef experto en quesos",
+        "Clase magistral de maridaje",
+        "Música carranguera y danza tradicional"
+      ],
+      "precio_referencia": null,
+      "telefono": null,
+      "sitio_web": "https://www.sopo-cundinamarca.gov.co",
+      "imagen": "imagenes/festival_del_queso_sopo.jpg",
+      "mas_informacion": "El festival se realiza cada año al inicio de la Semana Santa. Sigue las redes oficiales de la Alcaldía de Sopó para conocer la fecha de la próxima edición.",
+      "fuente": "Información suministrada por la beneficiaria y publicación oficial de la Alcaldía de Sopó (sopo-cundinamarca.gov.co, 30 de marzo de 2026)",
+      "estado_validacion": "Fecha, lugar, asistencia, ventas y actividades verificados en la publicación oficial de la Alcaldía"
+    }
+  ],
+  "sitios_turisticos": [
+    {
+      "nombre": "Parapente Paraíso",
+      "categoria": "Sitios turísticos",
+      "tipo": "Turismo de aventura - parapente",
+      "descripcion": "Vuelos en parapente cerca de Bogotá en un entorno natural privilegiado, con instructores expertos. Cuenta con baños, restaurante, mirador y parqueadero, y se puede llegar en transporte público o particular.",
+      "actividades": [
+        "Vuelo en parapente",
+        "Columpio 360",
+        "Canopy",
+        "Desafío sobre cuerdas",
+        "Mirador con binoculares"
+      ],
+      "direccion": "Km 4 Vía Pionono, Sopó, Cundinamarca (aprox. 40 minutos desde Bogotá)",
+      "telefono": "311 525 5807 / 312 490 9593",
+      "correo": "info@parapenteparaiso.com",
+      "horario": "Lunes a viernes: 10:00 a. m. a 4:30 p. m. Fines de semana y festivos: 9:00 a. m. a 5:30 p. m.",
+      "precio_referencia": "Planes desde $295.000",
+      "servicios": [
+        "Baños",
+        "Restaurante",
+        "Mirador",
+        "Parqueadero",
+        "Acceso en transporte público o particular",
+        "Instructores expertos"
+      ],
+      "politicas": [],
+      "sitio_web": "https://parapenteparaiso.com",
+      "instagram": null,
+      "imagen": "imagenes/parapente_paraiso_sopo.jpg",
+      "mas_informacion": "Consulta los planes en https://parapenteparaiso.com o comunícate al 311 525 5807 para reservas, requisitos de edad y peso y duración del vuelo.",
+      "fuente": "Información suministrada por la beneficiaria y sitio web https://parapenteparaiso.com",
+      "estado_validacion": "Datos confirmados por la beneficiaria; horario y precio desde tomados del sitio web (noviembre de 2026)"
+    },
+    {
+      "nombre": "Parque Ecológico Pionono",
+      "categoria": "Sitios turísticos",
+      "tipo": "Parque natural y ecológico",
+      "descripcion": "Espacio natural para el descanso, la meditación y el disfrute del paisaje, con senderos entre 2.800 y 3.250 m s. n. m., vegetación de bosque andino y subpáramo como frailejones y musgos, y vista panorámica del valle de Sopó y parte de la sabana de Bogotá.",
+      "actividades": [
+        "Caminatas y senderismo",
+        "Miradores y fotografía",
+        "Avistamiento de aves y naturaleza",
+        "Descanso y picnic ligero",
+        "Parapente en zonas cercanas habilitadas del cerro"
+      ],
+      "direccion": "Vía Pionono, Sopó, Cundinamarca",
+      "telefono": null,
+      "correo": null,
+      "horario": "Miércoles a domingo y festivos: 8:00 a. m. a 3:00 p. m. (último ingreso 2:00 p. m.). Lunes y martes: cerrado.",
+      "precio_referencia": "Soposeños con documento de identidad: $2.700. Turistas: $8.500. Parqueadero de bicicletas: $2.200",
+      "tarifas": [
+        {
+          "tipo": "Soposeños (con documento de identidad)",
+          "valor": 2700
+        },
+        {
+          "tipo": "Turistas (tarifa general)",
+          "valor": 8500
+        },
+        {
+          "tipo": "Bicicletero (parqueadero)",
+          "valor": 2200
+        }
+      ],
+      "recomendaciones": [
+        "Zona fría de montaña, temperatura promedio cercana a 12 °C",
+        "Llevar abrigo, bloqueador solar, agua y calzado con buen agarre"
+      ],
+      "politicas": [
+        "No escuchar música a todo volumen",
+        "No ensuciar ni contaminar el parque ni los nacederos",
+        "Usar las estaciones de reciclaje",
+        "No se permite el ingreso de mascotas",
+        "No se permite el ingreso de bebidas alcohólicas",
+        "No se permite el ingreso de plásticos de un solo uso"
+      ],
+      "datos_adicionales": "El parque busca dar manejo integral a cerca de 230 hectáreas, revegetalizar la zona de Reserva Forestal (680 ha), proteger la Quebrada de la Moya y repoblar fauna nativa; se han priorizado unas 60 hectáreas para un aula ambiental.",
+      "servicios": [
+        "Senderos",
+        "Miradores",
+        "Estaciones de reciclaje",
+        "Parqueadero de bicicletas"
+      ],
+      "sitio_web": null,
+      "instagram": null,
+      "imagen": "imagenes/parque_pionono_sopo.jpg",
+      "mas_informacion": "Abre de miércoles a domingo y festivos de 8:00 a. m. a 3:00 p. m. Lleva abrigo, agua y calzado adecuado.",
+      "fuente": "Información suministrada por la beneficiaria (página oficial del parque y TripAdvisor)",
+      "estado_validacion": "Horario y tarifas tomados de la página oficial del parque; falta dirección exacta y teléfono",
+      "alias": [
+        "Reserva Ecológica Pionono"
+      ],
+      "como_llegar": "Consultar en el punto de información turística del municipio ubicado en el parque principal",
+      "tarifas_nota": "Presentando cédula expedida en Sopó"
+    },
+    {
+      "nombre": "Santuario Diocesano del Señor de la Piedra",
+      "alias": [
+        "Santuario Mi Padre Jesús de la Piedra de Sopó",
+        "Señor de la Piedra",
+        "Santuario del Señor de la Piedra"
+      ],
+      "categoria": "Sitios turísticos",
+      "tipo": "Turismo religioso - santuario católico",
+      "descripcion": "Santuario católico de Sopó dedicado al Señor de la Piedra, uno de los lugares de peregrinación y visita más representativos del municipio.",
+      "actividades": [
+        "Visita al santuario",
+        "Asistencia a misas",
+        "Turismo religioso"
+      ],
+      "direccion": "Carrera 2 Este No. 4-02, Sopó, Cundinamarca",
+      "telefono": "(601) 857 0521 / 310 350 3256",
+      "correo": null,
+      "horario": "Lunes a viernes: 9:00 a. m. a 4:00 p. m. Sábado: 9:00 a. m. a 5:00 p. m. Domingo: 7:30 a. m. a 5:00 p. m.",
+      "horario_misas": "Sábados: 4:00 p. m. Domingos: 8:00 a. m., 10:00 a. m., 12:00 m. y 3:00 p. m. Festivos: 10:00 a. m. u 11:00 a. m. (confirmar en la página de Facebook del santuario).",
+      "precio_referencia": "Ingreso gratuito",
+      "servicios": [
+        "Misas"
+      ],
+      "politicas": [],
+      "sitio_web": null,
+      "facebook": "https://www.facebook.com/SantuarioSenorDeLaPiedra/",
+      "imagen": "imagenes/santuario_senor_de_la_piedra.jpg",
+      "mas_informacion": "Para confirmar horarios de misa en festivos, consulta su Facebook o comunícate al (601) 857 0521 o al 310 350 3256.",
+      "fuente": "Información suministrada por la beneficiaria (ficha de Google y Facebook del santuario)",
+      "estado_validacion": "Datos confirmados por la beneficiaria; horario de misas en festivos sujeto a cambios"
+    },
+    {
+      "nombre": "Postres del Parque Principal",
+      "alias": [
+        "Emprendedores del parque",
+        "Postres de Sopó"
+      ],
+      "categoria": "Sitios turísticos",
+      "tipo": "Experiencia gastronómica - emprendimiento local",
+      "descripcion": "Los fines de semana y festivos, emprendedores locales salen a vender en el Parque Principal de Sopó. Lo más solicitado son los postres, con una amplia gama de sabores: fresas con crema, obleas, helados, cuajada con mora y melado, milhojas y más.",
+      "actividades": [
+        "Degustar postres artesanales",
+        "Recorrer el Parque Principal",
+        "Apoyar a los emprendedores locales"
+      ],
+      "direccion": "Parque Principal, Centro, Sopó, Cundinamarca",
+      "telefono": null,
+      "correo": null,
+      "horario": "Fines de semana y festivos, aproximadamente hasta las 4:00 p. m.",
+      "precio_referencia": null,
+      "servicios": [
+        "Postres",
+        "Emprendimientos locales"
+      ],
+      "politicas": [],
+      "sitio_web": null,
+      "instagram": null,
+      "imagen": "imagenes/postres_parque_principal.jpg",
+      "mas_informacion": "Visita el Parque Principal un fin de semana o festivo, antes de las 4:00 p. m., para encontrar la oferta de postres de los emprendedores soposeños.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Información suministrada por la beneficiaria",
+      "platos_destacados": [
+        "Fresas con crema",
+        "Obleas",
+        "Helados",
+        "Cuajada con mora y melado",
+        "Milhojas"
+      ]
+    },
+    {
+      "nombre": "Iglesia Divino Salvador de Sopó",
+      "tipo": "Sitio religioso y patrimonial",
+      "tarifa": "Ingreso gratuito",
+      "descripcion": "Monumento colonial construido en piedra, cuya construcción inició aproximadamente en el año 1612. Alberga la colección de los 12 Arcángeles de Sopó, pinturas al óleo únicas en Colombia, llegadas el 8 de mayo de 1657. También cuenta con un reloj donado por el expresidente Marco Fidel Suárez.",
+      "coleccion_arcangeles": {
+        "descripcion": "12 pinturas al óleo únicas en Colombia, representan una de las expresiones más importantes del arte barroco neogranadino.",
+        "valor": "Histórico, artístico y religioso"
+      },
+      "horarios_misa": {
+        "martes_a_sabado": [
+          "7:00 a.m.",
+          "5:30 p.m."
+        ],
+        "domingos": [
+          "7:00 a.m.",
+          "12:00 m.",
+          "5:00 p.m."
+        ]
+      },
+      "categoria": "Sitios turísticos"
+    },
+    {
+      "nombre": "Recorrido de Murales de Guaque",
+      "tipo": "Arte urbano y cultural",
+      "descripcion": "Recorrido por los murales artísticos ubicados en el sector de Guaque.",
+      "categoria": "Sitios turísticos"
+    },
+    {
+      "nombre": "Casona de las Artes",
+      "tipo": "Cultural",
+      "categoria": "Sitios turísticos"
+    },
+    {
+      "nombre": "Factoría Artesanal Acto y Sueño",
+      "tipo": "Artesanías",
+      "categoria": "Sitios turísticos"
+    },
+    {
+      "nombre": "Compra Hecho en Sopó",
+      "tipo": "Mercado local",
+      "frecuencia": "Todos los domingos",
+      "categoria": "Sitios turísticos"
+    },
+    {
+      "nombre": "Plaza de los Tibas",
+      "tipo": "Espacio público cultural",
+      "categoria": "Sitios turísticos"
+    }
+  ],
+  "emprendimientos": [
+    {
+      "nombre": "NUVORA 3D",
+      "categoria": "Emprendimientos",
+      "tipo": "Impresión 3D y diseño creativo",
+      "descripcion": "Emprendimiento de impresión 3D y diseño creativo. Realiza impresiones 3D de todo tipo, desde figuras personalizadas de ti mismo hasta piezas para carro o moto. Servicios de diseño 3D, prototipado y fabricación.",
+      "productos": [
+        "Figuras personalizadas",
+        "Piezas para carro y moto",
+        "Diseño 3D",
+        "Prototipado",
+        "Fabricación"
+      ],
+      "direccion": null,
+      "telefono": "321 369 3389 (cotizaciones por WhatsApp)",
+      "correo": null,
+      "horario": null,
+      "precio_referencia": "Por cotización",
+      "instagram": null,
+      "imagen": "imagenes/nuvora_3d.jpg",
+      "mas_informacion": "Para cotizaciones, escribe al 321 369 3389.",
+      "fuente": "Información suministrada por la beneficiaria",
+      "estado_validacion": "Emprendimiento en el que participa la beneficiaria (declarar a la Secretaría)"
+    }
+  ]
+}
